@@ -460,6 +460,12 @@ JS样式导入
  - 使用 document.write() 方法将内容写到 HTML 文档中。
  - 使用 innerHTML 写入到 HTML 元素。
  - 使用 console.log() 写入到浏览器的控制台。
+ 
+## 逻辑运算符 与或非
+
+ - && 两者都满足
+ - || 两者满足其一
+ - !  取反
 
 ## if else 循环
  - 当调节为true（真）时执行if，当调节为false（假）时执行else。
